@@ -26,7 +26,17 @@ examples:
       `add subtask(N) get power restored`
       `add subtask(N) reinstall OS`
       `add subtask(N) buy new monitor (old one exploded)`
-    
+  
+  it would be nice to have good reminders.
+  it would be nice to not be told about things before they were due.
+  it would be nice to have good time tracking.
+  if the system had an optional "I really need to ask you something" invasive feature, it would be good.  so it could resolve unknown things which are likely to be wrong / mess up later analytics.
+  task completion metrics would be neat
+  google calendar integration would be nice
+  google contact integration is somewhat important - for atting people
+  all the stuff in "tracker" (CRUD across all FKs and reverse FKs) would be very useful.
+  -the whole system can be viewed as just a new interface to `tracker`
+  
   everything optional
 
 tech stack
