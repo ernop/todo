@@ -22,12 +22,11 @@ improved taskwarrior
 * creates new project
 * adds tag
     
-##`add fix computer blocks:all`
-* =>created task n
+## `add fix computer blocks:all`
   * creates new task which is at top of priority list
   * blocks everything (although later things may be visible! (or maybe not))
   * how to create subtasks?
-   *  `add subtask(N) get power restored`
+   * `add subtask(N) get power restored`
    * `add subtask(N) reinstall OS`
    * `add subtask(N) buy new monitor (old one exploded)`
   
