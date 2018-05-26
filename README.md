@@ -1,20 +1,24 @@
 # todo
 improved taskwarrior
 
-Console on web
-speed of console, availability of web
+# Console on web
+* speed of console
+* availability of web
 
-# based on taskwarrior - super simple, everything optional commands
+## based on taskwarrior - super simple, everything optional commands
 
-examples:
-##`add call @victor due:tomorrow`
+## examples:
+
+### `add call @victor due:tomorrow blocks:2`
 * -create person "victor"
 * -create duedate
 * create task "call @victor"
 * automatic urgency
 * automatic scheduling
+* blocks task 2
+
   
-## `add check foozle proj:github +zone`
+### `add check foozle proj:github +zone`
 * creates new project
 * adds tag
     
